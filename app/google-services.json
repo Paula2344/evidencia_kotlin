@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024509584330",
+    "project_id": "desarrollomovilnativo-572b8",
+    "storage_bucket": "desarrollomovilnativo-572b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024509584330:android:bd8fc7cf7b7101e9e26533",
+        "android_client_info": {
+          "package_name": "co.edu.sena.app2687340"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024509584330-c8qjbtstdfc3arfh51qqed42lvgn7ccn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcgUMsgj1v7Yts-oLzZ8IJf70UW5vOeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024509584330-c8qjbtstdfc3arfh51qqed42lvgn7ccn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
